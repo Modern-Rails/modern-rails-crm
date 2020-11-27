@@ -2,6 +2,7 @@
   "name": "rails_6_active_admin_crm",
   "private": true,
   "dependencies": {
+    "@activeadmin/activeadmin": "^2.8.1",
     "@babel/preset-react": "^7.12.0",
     "@rails/actioncable": "^6.0.0",
     "@rails/activestorage": "^6.0.0",
