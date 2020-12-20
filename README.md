@@ -1,24 +1,7 @@
-# README
+# Modern Rails CRM
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+The open-source support code for the Modern Rails CRM tutorial with Active Admin.
 
-Things you may want to cover:
+## Sections
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+1. [Part 1 - Setting up Rails, Active Admin, the Clients model](https://medium.com/modern-rails/building-a-modern-crm-in-ruby-on-rails-part-1-3b62f7b4dc7d) - Tag: https://github.com/Modern-Rails/modern-rails-crm/releases/tag/0.1.0
