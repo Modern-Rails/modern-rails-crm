@@ -1,11 +1,15 @@
+# frozen_string_literal: true
+
 require 'rails_helper'
 
-RSpec.describe 'Clients' do
+RSpec.describe 'Clients', type: :system, js: true do
   let!(:client) { create(:client) }
 
-  scenario 'Index' do
-    visit admin_clients_path
+  describe 'Index' do
+    it 'displays a list of clients' do
+      visit root_path
 
-    raise 'a'
+      raise 'a'
+    end
   end
 end
